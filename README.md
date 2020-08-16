@@ -12,13 +12,13 @@
 ## 目前正在做的项目
 ### Chihuo's Websocket Chat（赤火的网络套接字聊天程序）
 #### Web版
-##### https://github.com/konnyak-studio-team/chihuos-websocketchat-web/
+##### https://github.com/konnyak-studio-team/chihuos-websocketchat-client-web/
 #### 桌面版
-##### https://github.com/konnyak-studio-team/chihuos-websocketchat-desktop/
+##### https://github.com/konnyak-studio-team/chihuos-websocketchat-client-desktop/
 #### 安卓版
-##### https://github.com/konnyak-studio-team/chihuos-websocketchat-android/
+##### https://github.com/konnyak-studio-team/chihuos-websocketchat-client-android/
 #### iOS版【目前没有开工】
-##### https://github.com/konnyak-studio-team/chihuos-websocketchat-ios/
+##### https://github.com/konnyak-studio-team/chihuos-websocketchat-client-ios/
 ## 黑历史
 ### PHP MySQL快速连接类
 #### https://github.com/konnyaku-studio-team/PHP-EasyMySQLConnectClass
