@@ -11,14 +11,21 @@
 #### 正在自学中:Android,Swift,
 ## 目前正在做的项目
 ### Chihuo's Websocket Chat（赤火的网络套接字聊天程序）
+### 客户端
 #### Web版
-##### https://github.com/konnyak-studio-team/chihuos-websocketchat-client-web/
+##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-client-web/
 #### 桌面版
-##### https://github.com/konnyak-studio-team/chihuos-websocketchat-client-desktop/
+##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-client-desktop/
 #### 安卓版
-##### https://github.com/konnyak-studio-team/chihuos-websocketchat-client-android/
+##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-client-android/
 #### iOS版【目前没有开工】
-##### https://github.com/konnyak-studio-team/chihuos-websocketchat-client-ios/
+##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-client-ios/
+### 服务端
+#### Websocket版
+##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-server/
+#### WSS版（目前仅支持HTTPS的Web版）
+##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-server-wssedition
+
 ## 黑历史
 ### PHP MySQL快速连接类
 #### https://github.com/konnyaku-studio-team/PHP-EasyMySQLConnectClass
