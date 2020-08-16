@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**chihuo2104/chihuo2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 本人为chihuo2104，是一个憨批的中学生。
+## 什么？你想知道更多？
+## 好吧（叹气）
+### 本人目前正在居住在浙江省宁波市
+### 目前是个淦程序的
+#### 喜欢二刺螈（bushi）
+#### 玩Minecraft，明日方舟，饥荒等。
+## 目前正在做的项目
+### Chihuo's Websocket Chat（赤火的网络套接字聊天程序）
+#### (Web版)[https://github.com/konnyak-studio-team/chihuos-websocketchat-web/]
+#### (桌面版)[https://github.com/konnyak-studio-team/chihuos-websocketchat-desktop/]
+#### (安卓版)[https://github.com/konnyak-studio-team/chihuos-websocketchat-android/]
+#### (iOS版【目前没有开工】)[https://github.com/konnyak-studio-team/chihuos-websocketchat-ios/]
+## 黑历史
+### (PHP MySQL快速连接类)[https://github.com/konnyaku-studio-team/PHP-EasyMySQLConnectClass]
+### (Forest轻型Blog【使用PHP】)[https://github.com/konnyaku-studio-team/Forest]
