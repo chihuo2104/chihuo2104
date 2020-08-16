@@ -26,7 +26,7 @@
 #### WSS版（目前仅支持HTTPS的Web版）
 ##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-server-wssedition
 
-## 黑历史
+## 黑历史（目前属于停更状态）
 ### PHP MySQL快速连接类
 #### https://github.com/konnyaku-studio-team/PHP-EasyMySQLConnectClass
 ### Forest轻型Blog【使用PHP】
