@@ -15,16 +15,16 @@
 ### 客户端
 #### Web版
 ##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-client-web/
-#### 桌面版
+#### 桌面版（已停更）
 ##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-client-desktop/
-#### 安卓版
+#### 安卓版（已停更）
 ##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-client-android/
 #### iOS版【目前没有开工】
 ##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-client-ios/
 ### 服务端
 #### Websocket版
 ##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-server/
-#### WSS版（目前仅支持HTTPS的Web版）
+#### WSS版（目前仅支持HTTPS的Web版）（已停更）
 ##### https://github.com/konnyaku-studio-team/chihuos-websocketchat-server-wssedition
 
 ## 黑历史（目前属于停更状态）
