@@ -6,9 +6,9 @@
 #### 喜欢二刺螈（bushi）
 #### 玩Minecraft、Arknights、Stardew Valley等。
 ### 目前会的编程语言
-#### 熟练:HTML,CSS,Node.js
-#### 学过:C++,C,Python,Java,JavaScript,`Scratch(bushi)`
-#### 正在自学中:Android,Swift,
+#### 较熟练:HTML,CSS,Node.js
+#### 学过:C++,C,Python,JavaScript,`Scratch(bushi)`
+#### 正在自学中:Android,Swift,Java
 ## 目前准备做的项目
 ## AshTalk(一个继承CWCHAT遗志的开源聊天软件)、AshTalker（AshTalk的基石）
 
